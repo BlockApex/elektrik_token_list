@@ -601,6 +601,13 @@
               "decimals": 18,
               "symbol": "LINK.e",
               "name": "LINK"
+            },
+            {
+              "chainId": "1890",
+              "address": "0xd80bef7938ddfd95ba0c13410fb7708e63f6f204",
+              "decimals": 18,
+              "symbol": "KUB.e",
+              "name": "KUB"
             }
           
     ],
