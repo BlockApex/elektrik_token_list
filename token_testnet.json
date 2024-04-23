@@ -1,0 +1,149 @@
+{
+  "name": "Lightlink Pegasus",
+  "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+  "keywords": ["elektrik", "default"],
+  "timestamp": "2023-06-27T10:03:55.144+00:00",
+  "tokens": [
+    {
+      "chainId": 1891,
+      "address": "0xF42991f02C07AB66cFEa282E7E482382aEB85461",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 1891,
+      "address": "0x60d7966bdf03f0Ec0Ac6de7269CE0E57aAd6e9c2",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB.b",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/825/standard/bnb-icon2_2x.png"
+    },
+    {
+      "chainId": 1891,
+      "address": "0xA4CBbd0f503720a0cA3C950D647A8c23FBE9702B",
+      "name": "USDT-LO",
+      "symbol": "USDT-LO",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 1891,
+      "address": "0xab16485D5fC7140b01440C4a1dE5007e9321DB5F",
+      "name": "BNB-LO",
+      "symbol": "BNB-LO",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/825/standard/bnb-icon2_2x.png"
+    },
+    {
+      "chainId": 1891,
+      "address": "0xe03fC4F4F9c93301923124550e685F74e3292837",
+      "name": "Binance USD",
+      "symbol": "BUSD.b",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/31020/standard/download_%2816%29.png"
+    },
+    {
+      "chainId": 1891,
+      "address": "0xC2b0Cb7bE78b29d90F198D7bD14c3B06d5f5208e",
+      "name": "Carbon",
+      "symbol": "CSIX.b",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/28905/standard/csix.png"
+    },
+    {
+      "chainId": 1891,
+      "address": "0x54390D6FD8C4d4e77c13Ac1E051C9A06eC19112f",
+      "name": "ETH-LO",
+      "symbol": "ETH-LO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 1891,
+      "address": "0x46624eA6a260714df1E1EF4c13575Bc7AAdf0f0e",
+      "name": "ChainLink LO",
+      "symbol": "LINK-LO",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    },
+    {
+      "chainId": 1891,
+      "address": "0x3cf2c147d43C98Fa96d267572e3FD44A4D3940d4",
+      "name": "USDC",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 1891,
+      "address": "0x4B6b9B31c72836806B0B1104Cf1CdAB8A0E3BD66",
+      "name": "Dai",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "chainId": 1891,
+      "address": "0x057e8e2bC40ECff87e6F9b28750D5E7AC004Eab9",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 1891,
+      "address": "0x9Ee1Aa18F3FEB435f811d6AE2F71B7D2a4Adce0B",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+    },
+    {
+      "chainId": 1891,
+      "address": "0x124ABC63F20c6e2088078bd61e2Db100Ff30836e",
+      "name": "Arbitrum",
+      "symbol": "ARB",
+      "decimals": 18,
+      "logoURI": "https://arbitrum.foundation/logo.png"
+    },
+    {
+      "chainId": 1891,
+      "address": "0x8bA5b0452b0a4da211579AA2e105c3da7C0Ad36c",
+      "name": "Polygon",
+      "symbol": "MATIC",
+      "decimals": 18,
+      "logoURI": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
+    },
+    {
+      "chainId": 1891,
+      "address": "0x8488c316e23504B8554e4BdE9651802CD45aea24",
+      "name": "Uniswap",
+      "symbol": "UNI",
+      "decimals": 18,
+      "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg"
+    },
+    {
+      "chainId": 1891,
+      "address": "0xeEf8e3c318fb3d86489FB258847d028adC629e14",
+      "name": "Bitkub",
+      "symbol": "KUB",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/16093.png"
+    },
+    {
+      "chainId": 1891,
+      "address": "0xeDc98fc6240671dF8e7eD035CE39143320c1A174",
+      "name": "ChainLink ",
+      "symbol": "LINK",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x514910771AF9Ca656af840dff83E8264EcF986CA/logo.png"
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 2,
+    "patch": 0
+  }
+}
